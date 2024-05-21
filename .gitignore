@@ -1,0 +1,4 @@
+node_modules 
+comands.txt
+# Keep environment variables out of version control
+.env
